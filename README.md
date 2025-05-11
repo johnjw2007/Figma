@@ -308,5 +308,9 @@ PAGE4
 ```
 # OUTPUT:
 ![alt text](<Screenshot 2025-05-11 185713.png>)
+![alt text](<Screenshot 2025-05-11 191607.png>)
+![alt text](<Screenshot 2025-05-11 191617.png>)
+![alt text](<Screenshot 2025-05-11 191625.png>)
+![alt text](<Screenshot 2025-05-11 191636.png>)
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
